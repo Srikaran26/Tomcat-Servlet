@@ -8,8 +8,6 @@ This project introduces the basics of the Spring Framework, focusing on core con
 - [Technologies Used](#technologies-used)
 - [Concepts Demonstrated](#concepts-demonstrated)
 - [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
-- [Next Steps](#next-steps)
 
 ## Overview
 
